@@ -1,0 +1,63 @@
+*{
+  margin:0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.apptitle{
+  padding: 50px;
+  background: #6b87bb;
+  border: none;
+  border-radius: 1px;
+  font-family: "Nunito",sans-serif;
+  font-weight: bold;
+  font-size: 40px;
+}
+
+body{
+  font-family: "Nunito",sans-serif;
+  background: #f8f8f8;
+  text-align: center;
+  font-size: 30px;
+}
+
+.icon img{
+  width: 200px;
+  height: auto;;
+
+}
+
+.entertext{
+  text-align: center;
+  margin: 100px auto;
+}
+
+input{
+  padding: 15px 30px;
+  background: #e7e7e7;
+  border: none;
+  border-radius: 1px;
+  font-family: "Nunito",sans-serif;
+  font-weight:bold;
+  font-size: 50px;
+}
+
+.entertext input[type="text"]{
+  width: 600px;
+  height: 55px;
+  padding: 5px 10px;
+  background: #e7e7e7;
+  border: none;
+  border-radius: 1px;
+  font-family: "Nunito",sans-serif;
+  font-weight:bold;
+  font-size: 20px;
+}
+
+.weatherinfo{
+  width: 50%; 
+  background: #e7e7e7;
+  height: 40vh;
+  margin: 50px auto;
+  border-radius: 2px;
+}
